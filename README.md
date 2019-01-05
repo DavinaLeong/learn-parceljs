@@ -1,2 +1,3 @@
-# learn-parceljs
-Exploring and learning about ParcelJS
+# Learn ParcelJS
+
+Here is me exploring and learning about ParcelJS.
