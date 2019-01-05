@@ -1,0 +1,19 @@
+{
+  "name": "learn-parceljs",
+  "version": "0.0.1",
+  "description": "Exploring and learning about ParcelJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavinaLeong/learn-parceljs.git"
+  },
+  "author": "Davina Leong <davina.leong@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavinaLeong/learn-parceljs/issues"
+  },
+  "homepage": "https://github.com/DavinaLeong/learn-parceljs#readme"
+}
